@@ -10,7 +10,7 @@
 
 
 Demo Videos:
-https://drive.google.com/file/d/1WAazFNwDmwiRYlOKojnz3QTZ6fh3cZIf/view?usp=sharing
+https://drive.google.com/drive/folders/1ov7P5AOqm_7sk2hfJsAJcny5rPa0A0Ut?usp=sharing
 
 ## Usage
 To use the application, follow the steps provided below.
